@@ -1,12 +1,12 @@
 {
   "videos": [
     {
-      "videoUrl": "https://www.youtube.com/watch?v=dlswUM0abp4",
-      "thumbnail": "https://img.youtube.com/vi/dlswUM0abp4/0.jpg"
+      "title": "Lagu Tradisional Suku Bunaq",
+      "videoUrl": "https://www.youtube.com/watch?v=dlswUM0abp4"
     },
     {
-      "videoUrl": "https://www.youtube.com/watch?v=xyz456",
-      "thumbnail": "https://img.youtube.com/vi/xyz456/0.jpg"
+      "title": "Budaya Belu",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     }
   ]
 }
